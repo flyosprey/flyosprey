@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vladyslav Bashtannyk
-- 👀 I’m interested in Python Back-End 
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on creating web-sites
-- 📫 How to reach me. Telegram: @fly_osprey Skype: live:.cid.60c5316207c5392b
+- I’m interested in Back-End 
+- I’m currently learning Flask, Django
+- I’m looking for Python Back-End Developer role
+- How to reach me. Telegram: @fly_osprey Skype: live:.cid.60c5316207c5392b
