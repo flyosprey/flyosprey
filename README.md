@@ -18,6 +18,7 @@
 ![Jinja](https://img.shields.io/badge/Jinja-8A0808?style=for-the-badge&logo=Jinja&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF8000?style=for-the-badge&logo=Postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-%2340f.svg?style=for-the-badge&logo=Insomnia&logoColor=white)
+![Fiddler](https://img.shields.io/badge/Fiddler-8A0808?style=for-the-badge&logo=Fiddler&logoColor=white)
 ![Json](https://img.shields.io/badge/Json-6E6E6E?style=for-the-badge&logo=json&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-FF8000?style=for-the-badge&logo=git&logoColor=white)
