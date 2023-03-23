@@ -31,6 +31,7 @@
 
 ![Linux](https://img.shields.io/badge/Linux-0080FF?style=for-the-badge&logo=Linux&logoColor=white)
 ![MacOS](https://img.shields.io/badge/MacOS-0080FF?style=for-the-badge&logo=MacOS&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0080FF?style=for-the-badge&logo=Windows&logoColor=white)
 
 ![Postgres](https://img.shields.io/badge/postgres-%2332316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2340f.svg?style=for-the-badge&logo=mysql&logoColor=white)
