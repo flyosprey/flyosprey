@@ -9,6 +9,7 @@
 ![Python](https://img.shields.io/badge/python-0174DF?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![Django](https://img.shields.io/badge/django-088A08?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/fastapi-088A08?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-088A85?style=for-the-badge&logo=flask&logoColor=white)
 ![RestAPI](https://img.shields.io/badge/RestAPI-01A9DB?style=for-the-badge&logo=RestAPI&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-088A08?style=for-the-badge&logo=swagger&logoColor=white)
