@@ -27,6 +27,7 @@
 ![Git](https://img.shields.io/badge/git-FF8000?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-585858?style=for-the-badge&logo=github&logoColor=white)
 ![BitBucket](https://img.shields.io/badge/bitbucket-0080FF?style=for-the-badge&logo=bitbucket&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-0080FF?style=for-the-badge&logo=GitLab&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0080FF?style=for-the-badge&logo=docker&logoColor=white)
 
 ![Jira](https://img.shields.io/badge/Jira-0080FF?style=for-the-badge&logo=Jira&logoColor=white)
